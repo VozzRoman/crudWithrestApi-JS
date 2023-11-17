@@ -1,0 +1,3 @@
+//server нужно запускать в отдельной папке (отдельное окно vs code)
+// в терминале командой json-server db.json запускаем сервер!
+// если не подтянется http://localhost:3000/posts попробуй установить sudo -S npm install -g json-server

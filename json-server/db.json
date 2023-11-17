@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "first": "Yana333",
+      "second": "Bobik2",
+      "adress": "Borispol33",
+      "City": "Kiev",
+      "sex": "male",
+      "id": 10
+    },
+    {
+      "first": "Juce2",
+      "second": "Freeman",
+      "adress": "Borispol",
+      "City": "Bostan",
+      "sex": "male",
+      "id": 11
+    },
+    {
+      "first": "Juce2",
+      "second": "Freeman",
+      "adress": "Borispol",
+      "City": "Bostan",
+      "sex": "male",
+      "id": 12
+    },
+    {
+      "first": "Juce2",
+      "second": "Bobik2",
+      "adress": "sfsdf",
+      "City": "Kiev42wd",
+      "sex": "male",
+      "id": 13
+    },
+    {
+      "first": "Juce22",
+      "second": "Bobik2",
+      "adress": "sfsdf",
+      "City": "Kiev42wd",
+      "sex": "male",
+      "id": 14
+    },
+    {
+      "first": "Juce2",
+      "second": "Vozniuk",
+      "adress": "New York town",
+      "City": "Bostan",
+      "sex": "male",
+      "id": 15
+    },
+    {
+      "first": "Juce223",
+      "second": "Vozniuk",
+      "adress": "New York town",
+      "City": "Bostan236",
+      "sex": "male",
+      "id": 16
+    },
+    {
+      "first": "Roman",
+      "second": "Vozniuk",
+      "adress": "New York town",
+      "City": "Bostan",
+      "sex": "female",
+      "id": 17
+    },
+    {
+      "first": "Roman",
+      "second": "Vozniuk",
+      "adress": "New York town",
+      "City": "Bostan2",
+      "sex": "female",
+      "id": 18
+    },
+    {
+      "first": "Roman",
+      "second": "Bobik",
+      "adress": "Borispol",
+      "City": "Kiev",
+      "sex": "male",
+      "id": 19
+    },
+    {
+      "first": "Yana",
+      "second": "Freeman",
+      "adress": "sfsdf",
+      "City": "Kiev42wdasdasd",
+      "sex": "male",
+      "id": 20
+    }
+  ]
+}
